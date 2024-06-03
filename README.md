@@ -13,7 +13,7 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 - [user stories](#user-stories)
 - [colours](#colours)
 - [wireframes](#wireframes)
-- [changes](#changes)
+- [progress and errors](#progress-and-errors)
 - [technologies used](#technologies-used)
 - [future enhancements](#future-enhancements)
 - [acknowledgments](#acknowledgments)
@@ -40,11 +40,19 @@ some of the colour palettes used prior to the current one.
 
 ## wireframes
 
-![wireframe 1](link-to-wireframes-image)
+![wireframe 1](readme/wireframe1.png)
+![wireframe 2](readme/wireframe3.png)
+![wireframe 3](readme/wireframe4.png)
 
-## design 
 
-the design of outfit oracle features a minimalist interface focused on usability and visual appeal
+## progress and errors
+
+![progress1](readme/process1.png)
+![progress2](readme/process2.png)
+![progress3](readme/process.png)
+![progress4](readme/process3.png)
+![progress5](readme/progress.png)
+
 
 ## technologies used
 
