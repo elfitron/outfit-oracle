@@ -58,7 +58,7 @@ some of the colour palettes used prior to the current one.
 
 - [html](https://web.dev/learn/html/overview/)- to provide structure and semantic elements 
 - [css](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style html elements
-- [javascript](https://www.javascript.com) - JavaScript - applied shuffling functions to display outfit combinations
+- [javascript](https://www.javascript.com) - javascript - applied shuffling functions to display outfit combinations
 - [visual studio code](https://code.visualstudio.com/) - to edit the code
 - [balsamiq](https://balsamiq.com/) - to create wireframes
 - [glorify](https://glorify.com/) - to remove background of all the images
@@ -77,6 +77,6 @@ some of the colour palettes used prior to the current one.
 
 ## acknowledgments
 
-a **huge** thank you to my tutor, @kkarir-waes](https://github.com/kkarir-waes), without whom this would not have been possible.
+a **huge** thank you to my tutor, @kkarir-waes] https://github.com/kkarir-waes, without whom this would not have been possible.
 i am *so* grateful for all of your help - xiexie laoshi!
 
