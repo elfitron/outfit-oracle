@@ -24,7 +24,6 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 - as a fashion blogger, i want to share stylish combinations and tips with my audience.#
 - as someone who often forgets what's in their wardrobe, i want to use outfit oracle to easily remember and visualize my clothing items, enabling me to create outfits without the need to sift through my entire wardrobe each time.
 
-- **future plans**: save generated outfits to your personal wardrobe collection, organise wardrobes and outfits by ocassion, advanced filtering options, and an inspiration/blog page.
 
 ## design and colours
 
@@ -45,25 +44,18 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 - unit testing for frontend components using jest or similar tools.
 - integration testing to ensure proper functionality across different browsers and devices.
 - user testing to gather feedback on usability and feature preferences.
-
-## acknowledgments
-
-- this project was inspired by [mention any inspirations or tutorials].
-- logo creation was facilitated by [tool or designer name].
-- initial concept and feedback received from [mention any mentors or advisors].
+- 
 
 ## future enhancements
 
-- **user wardrobe uploads**: allow users to upload their own clothing items for outfit generation.
-- **advanced filtering**: enable users to filter outfits by style, color, and occasion.
+- **user clothing uploads**: allow users to upload their own clothing items for outfit generation.
+- **advanced filtering**: enable users to filter outfits by style, colour, and occasion.
+- **organise wardrobes**: save generated outfits to your personal wardrobe collection
 - **integration with social platforms**: share generated outfits directly on social media platforms.
 
-## contact
 
-for questions, feedback, or collaboration opportunities, please contact:
+## acknowledgments
 
-- **email**: your.email@example.com
-- **github**: [yourusername](https://github.com/yourusername)
-
----
+a **huge** thank you to my tutor, @kkarir-waes](https://github.com/kkarir-waes), without whom this would not have been possible.
+i am *so* grateful for all of your help - xiexie laoshi!
 
