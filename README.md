@@ -1,4 +1,4 @@
-# outfit oracle [link to web page](https://elfitron.github.io/outfit-oracle/) 
+# outfit oracle - [link to web page](https://elfitron.github.io/outfit-oracle/) 
 
 
 outfit oracle is a web application that generates random outfits from predefined categories. the current 
