@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outfit Oracle</title>
+    <link rel="stylesheet" href="asset/css/style.css">
+</head>
+<body>
+    <header>
+        <h2>outfit oracle</h2>
+        <nav>
+          <ul id="menu">
+            <li><a href="index.html" class="active">home</a></li>
+            <li><a href="wardrobe.html">wardrobe/inspo</a></li>
+          </ul>
+        </nav>
+    </header>
+
+    <h2 id="slogan">your personal stylist in a click! let the outfit oracle do the wardrobe work for you.</h2>
+    <h4>welcome to outfit oracle, your ultimate solution to daily outfit dilemmas -
+        say goodbye to fashion fuss and hello to effortless style!</h4>
+
+    <main>
+        <!-- Outfit Display Section -->
+        <div class="parentContainer">
+        <section id="outfitDisplay">
+            <div>
+            <div id="jackets"></div>
+            <button onclick="shuffleJackets()">shuffle</button>
+            </div>
+
+            <div>
+            <div id="tops"></div>
+            <button onclick="shuffleTops()">shuffle</button>
+            </div>
+
+            <div>
+            <div id="accessories"></div>
+            <button onclick="shuffleAccessories()">shuffle</button>
+            </div>
+
+            <div>
+            <div id="bottoms"></div>
+            <button onclick="shuffleBottoms()">shuffle</button>
+            </div>
+
+            <div>
+            <div id="shoes"></div>
+            <button onclick="shuffleShoes()">shuffle</button>
+            </div>
+        </section>
+
+        <!-- Control Buttons -->
+        <section>
+            <button id="shuffle-btn" onclick="shuffleOutfit()">shuffle all</button>
+        </section>
+        </div>
+    </main>
+
+   
+    <footer>
+        <p>&copy; 2024 Outfit Oracle</p>
+    </footer>
+    <script src="asset/javascript/script.js"></script>
+</body>
+</html>
