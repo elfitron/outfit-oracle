@@ -11,9 +11,9 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 ## table of tontents
 
 - [user stories](#user-stories)
-- [design](#design)
 - [colours](#colours)
 - [wireframes](#wireframes)
+- [changes](#changes)
 - [technologies used](#technologies-used)
 - [future enhancements](#future-enhancements)
 - [acknowledgments](#acknowledgments)
@@ -28,24 +28,22 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 - as someone who often forgets what's in their wardrobe, i want to use outfit oracle to easily remember and visualize my clothing items, enabling me to create outfits without the need to sift through my entire wardrobe each time.
 
 
-## design 
-
-- the design of outfit oracle features a minimalist interface focused on usability and visual appeal.
-
-
 ## colours
 
 some of the colour palettes used prior to the current one. 
 
 ![colour palette 1](readme/coolors.png)
-![colour palette 2](readme/coolors2.png)
+![colour palette 2](readme/coolors 2.png)
 ![colour palette 3](readme/coolors3.png)
 
 
 ## wireframes
 
-![wireframe example](link-to-wireframes-image)
+![wireframe 1](link-to-wireframes-image)
 
+## design 
+
+the design of outfit oracle features a minimalist interface focused on usability and visual appeal
 
 ## technologies used
 
