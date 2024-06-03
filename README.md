@@ -6,6 +6,16 @@ outfit oracle is a web application that generates random outfits from predefined
 
 the aim of outfit oracle is to provide users with randomly generated outfits for various occasions, enhancing their wardrobe choices in a fun and interactive way. 
 
+## table of tontents
+
+- [user stories](#user-stories)
+- [Features](#features)
+- [Future Plans](#future-plans)
+- [Contributing](#contributing)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
+- [Contact](#contact)
+
 ## user stories
 
 - as a fashion enthusiast, i want to explore random outfit combinations for inspiration.
@@ -13,12 +23,10 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 - as a frequent traveler, i want to organize outfits by occasions such as work, beach, brunch, etc.
 - as a fashion blogger, i want to share stylish combinations and tips with my audience.#
 - as someone who often forgets what's in their wardrobe, i want to use outfit oracle to easily remember and visualize my clothing items, enabling me to create outfits without the need to sift through my entire wardrobe each time.
-  
-
 
 - **future plans**: save generated outfits to your personal wardrobe collection, organise wardrobes and outfits by ocassion, advanced filtering options, and an inspiration/blog page.
 
-## design and colors
+## design and colours
 
 - the design of outfit oracle features a minimalist interface focused on usability and visual appeal.
 - colors chosen are intended to be neutral yet stylish, complementing a wide range of fashion tastes.
