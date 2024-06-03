@@ -53,8 +53,8 @@ some of the colour palettes used prior to the current one.
 ![progress1](readme/process1.png)
 ![progress2](readme/process2.png)
 ![progress3](readme/process.png)
-![progress4](readme/process3.png)
 ![progress5](readme/progress.png)
+![progress4](readme/process3.png)
 
 
 ## technologies used
