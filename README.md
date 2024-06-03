@@ -33,7 +33,7 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 some of the colour palettes used prior to the current one. 
 
 ![colour palette 1](readme/coolors.png)
-![colour palette 2](readme/coolors 2.png)
+![colour palette 2](readme/coolors2.png)
 ![colour palette 3](readme/coolors3.png)
 
 
