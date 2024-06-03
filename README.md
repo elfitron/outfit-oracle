@@ -31,7 +31,10 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 
 ## colours
 
-- colours chosen are intended to be neutral yet stylish, complementing a wide range of fashion tastes.
+some of the colour palettes used prior to the current one. 
+
+- ![colour palette 1](readme/coolors.png)
+
 
 ## wireframes
 
@@ -40,7 +43,15 @@ the aim of outfit oracle is to provide users with randomly generated outfits for
 
 ## technologies used
 
-- html, css, javascript: frontend development for user interface and interactivity.
+- [html](https://web.dev/learn/html/overview/)- to provide structure and semantic elements 
+- [css](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style html elements
+- [javascript](https://www.javascript.com) - JavaScript - applied shuffling functions to display outfit combinations
+- [visual studio code](https://code.visualstudio.com/) - to edit the code
+- [balsamiq](https://balsamiq.com/) - to create wireframes
+- [glorify](https://glorify.com/) - to remove background of all the images
+- [google fonts](https://fonts.google.com/) - to import Adamina font
+- [font awesome](https://fontawesome.com/) - to create favicons
+- [gitHub](https://github.com/) - hosting site used to store the code repository
 
 
 ## future enhancements
