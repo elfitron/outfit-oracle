@@ -81,6 +81,6 @@ some of the colour palettes used prior to the current one.
 
 ## acknowledgments
 
-a **huge** thank you to my tutor, @kkarir-waes] https://github.com/kkarir-waes, without whom this would not have been possible.
+a **huge** thank you to my tutor, @kkarir-waes https://github.com/kkarir-waes, without whom this would not have been possible.
 i am *so* grateful for all of your help - xiexie laoshi!
 
